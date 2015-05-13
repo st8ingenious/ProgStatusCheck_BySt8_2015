@@ -1,0 +1,1 @@
+C:\progcheckbyst8\main.bat > C:\progcheckbyst8\running.txt 2>&1
