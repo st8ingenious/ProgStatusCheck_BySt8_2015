@@ -22,7 +22,7 @@ of the program you want to check.
 OR
 >>Run "start-everytime.bat" to make the program run every time Windows boot and 
 create a shortcut on the desktop.
-Than you can:  
+Then you can:  
   Open "running" inside the folder and check the running progress of the sript.
   Open "log" to see the log file.
   Click "force-exit" to terminate the program.
