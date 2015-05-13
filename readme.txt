@@ -7,7 +7,7 @@ So I wrote this script in batch files (and a little bit of vbs) to check every f
 I also created an SFX rar archive to automatically install the files.
 
 SETUP:
-RUN progcheckbyst8.exe to install the scripts
+RUN progcheckbyst8-SFX-setup.exe to install the scripts
 
 OR 
 
